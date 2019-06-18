@@ -1,2 +1,2 @@
----rev 6----
+---rev 7----
 Select name from v$database;
